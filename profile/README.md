@@ -69,7 +69,7 @@ Bridging the gap between research code and production-grade AD systems.
 
 - [x] Apress Contract Received: End to End Autonomous Driving: A Practical Guide to Implementing End-to-End Learning Pipelines for Autonomous Vehicles (Expected 2027)
 - [ ] Manuscript Development: Documenting the process of molding "black box" research into clean, multi-task estimation pipelines.
-- [ ] Design Workshop Series: Limited architectural advisory for teams implementing modular E2E systems. [Book a Discovery Session](contact@primeradiantanalytics.com)
+- [ ] Design Workshop Series: Limited architectural advisory for teams implementing modular E2E systems. [Book a Discovery Session](www.primeradiantanalytics.com)
 - [ ] E2E Starter Kit: Core PyTorch/C++ interfaces (Alpha release available to workshop participants).
 
 
