@@ -52,7 +52,7 @@ On-Road Design Workshops:
 
 
 Off-Road Design Workshops:
-- **The Multi Stage Maturity Roadmap**: We help you decompose operation cycles (Dispatch $\rightarrow$ Transit $\rightarrow$ Loading $\rightarrow$ Dumping) into a multi version incremental release plan. This maps SAE Autonomy Levels to specific operational features, ensuring your MVP generates value while the "plumbing" for Level 4 is still being built.
+- **The Multi Stage Maturity Roadmap**: We help you decompose operation cycles (Load $\rightarrow$ Push $\rightarrow$ Dump $\rightarrow$ Return, etc) into a multi version incremental release plan. This maps SAE Autonomy Levels to specific operational features, ensuring your MVP generates value while the "plumbing" for Level 4 is still being built.
 - **Delta-Driven Standard Alignment Workflows**: Aligning standards shouldn't stop innovation. We teach your team the "Delta Workflow"—how to satisfy ASPICE (SYS.1 through SYS.5) by analyzing only the changes between versions. This reduces administrative overhead while maintaining a Traceability Matrix.
 - **Gated Iterative V-Model Execution**: We introduce a 5-stage execution gate for every feature bump:
   - Delta Analysis: Requirements impact of the new feature.
